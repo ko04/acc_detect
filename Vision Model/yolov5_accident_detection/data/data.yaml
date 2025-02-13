@@ -1,7 +1,0 @@
-train: ../CrashDataSet/train/images
-val: ../CrashDataSet/valid/images
-test: ../CrashDataSet/test/images
-
-nc: 1
-names: ['crash']
-
